@@ -14,10 +14,10 @@ import java.util.UUID;
 
 @Table(name="event")
 @Entity
-@Setter
 @Getter
-@NoArgsConstructor
+@Setter
 @AllArgsConstructor
+@NoArgsConstructor
 public class Event {
     @Id
     @GeneratedValue

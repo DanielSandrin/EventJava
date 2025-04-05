@@ -1,0 +1,7 @@
+com\eventostec\api\domain\adress\Address.class
+com\eventostec\api\domain\coupon\Coupon.class
+com\eventostec\api\domain\event\Event.class
+com\eventostec\api\repositories\CouponRepository.class
+com\eventostec\api\repositories\AddressRepository.class
+com\eventostec\api\repositories\EventRepositories.class
+com\eventostec\api\ApiApplication.class
