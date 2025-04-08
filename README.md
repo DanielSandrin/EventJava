@@ -11,7 +11,7 @@ Api foi criada para estudo da linguagem Java, utilizando as seguintes Tecnologia
 Api tem como objetivo o cadastro de eventos em uma determinada cidade, tendo a possibilidade de cadastrar o endereço e de cupons para desconto associado aos eventos.
 
 # Rotas
-<i>/api/coupon/event/{eventId}</i> 
+<b>Post: </b><i>/api/coupon/event/{eventId}</i> 
  - Permite realizar a criação dos cupons e associalos ao evento
 <b>Post: </b><i>/api/event/</i>
  - Permite cadastras os eventos, ele recebe um objeto no formato multi-part pois o payload comporta o envio de imagens junto com os de mais dados do evento:
