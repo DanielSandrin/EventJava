@@ -1,4 +1,4 @@
-# API de castro de Eventos.
+# API de cadastro de Eventos.
 
 Api foi criada para estudo da linguagem Java, utilizando as seguintes Tecnologias 🛠.
   - Java 21
